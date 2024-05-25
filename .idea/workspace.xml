@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3b605a6-f25c-4e39-9049-f9f82d789461" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="242746052">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.62" value="1" />
+          <entry key="project.open.time.67" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="feature" value="1" />
+          <entry key="js" value="15" />
+          <entry key="json" value="5" />
+          <entry key="png" value="1" />
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Cucumber" value="1" />
+          <entry key="Image" value="1" />
+          <entry key="JSON" value="5" />
+          <entry key="JavaScript" value="15" />
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="feature" value="89" />
+          <entry key="js" value="1182" />
+          <entry key="json" value="62" />
+          <entry key="py" value="372" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Cucumber" value="89" />
+          <entry key="JSON" value="62" />
+          <entry key="JavaScript" value="1182" />
+          <entry key="Python" value="372" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1584173109">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="27" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.441" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.50" value="3" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.83" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.open.time.92" value="1" />
+          <entry key="project.opened" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ejs" value="1" />
+          <entry key="html" value="1" />
+          <entry key="js" value="46" />
+          <entry key="json" value="4" />
+          <entry key="png" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="Image" value="5" />
+          <entry key="JSON" value="4" />
+          <entry key="JavaScript" value="46" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="ejs" value="273" />
+          <entry key="js" value="3213" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="3213" />
+          <entry key="PLAIN_TEXT" value="273" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1968304245">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.79" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="conf" value="2" />
+          <entry key="html" value="2" />
+          <entry key="js" value="34" />
+          <entry key="json" value="3" />
+          <entry key="md" value="1" />
+          <entry key="png" value="1" />
+          <entry key="ts" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="2" />
+          <entry key="Image" value="1" />
+          <entry key="JSON" value="3" />
+          <entry key="JavaScript" value="34" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="TypeScript" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="conf" value="22" />
+          <entry key="js" value="2251" />
+          <entry key="json" value="69" />
+          <entry key="md" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JSON" value="69" />
+          <entry key="JavaScript" value="2251" />
+          <entry key="PLAIN_TEXT" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="TypeScriptServerServiceImpl" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cypress/e2e/InventoryPageTest.cy.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="30" column="39" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cypress.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ReadMe.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>`</find>
+      <find>samplePage.skipError();</find>
+      <find>validationServer05</find>
+      <find>subscribePage.</find>
+      <find>btnWithInvalidSecret</find>
+      <find>signatureWithInvalidKey</find>
+      <find>69758</find>
+      <find>btnErrorWithoutRedirectURL</find>
+      <find>ErrorWithoutRedirectURL</find>
+      <find>apiSecret</find>
+      <find>69986</find>
+      <find>69988</find>
+      <find>clickSuspendApp</find>
+      <find>SDKs1</find>
+      <find>6973</find>
+      <find>69753</find>
+      <find>69899</find>
+      <find>addToCartSauceLabsbackpackButton</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>utils.skipError();</replace>
+      <replace>this.</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Downloads/test1.py" />
+        <option value="$USER_HOME$/Downloads/Checkitrevers.py" />
+        <option value="$PROJECT_DIR$/cypress/e2e/test2.cy.js" />
+        <option value="$PROJECT_DIR$/cypress.json" />
+        <option value="$PROJECT_DIR$/cypress/plugin/index.js" />
+        <option value="$PROJECT_DIR$/cypress/e2e/test.feature" />
+        <option value="$PROJECT_DIR$/cypress/e2e/Test.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/cypress/e2e/CustomComand.cy.js" />
+        <option value="$PROJECT_DIR$/cypress/pages/samplePage.js" />
+        <option value="$PROJECT_DIR$/cypress/e2e/api.cy.js" />
+        <option value="$PROJECT_DIR$/cypress/pages/DefaultErrorPage.js" />
+        <option value="$PROJECT_DIR$/cypress/pages/SamplePage.js" />
+        <option value="$USER_HOME$/Downloads/Digimart/sdk-test-app/public/views/subscriptionPage.ejs" />
+        <option value="$USER_HOME$/Downloads/Digimart/sdk-test-app/controllers/subscriptionController.js" />
+        <option value="$PROJECT_DIR$/cypress/e2e/server.cy.js" />
+        <option value="$PROJECT_DIR$/cypress/pages/SubscribePage.js" />
+        <option value="$PROJECT_DIR$/cypress/e2e/test1.cy.js" />
+        <option value="$PROJECT_DIR$/cypress/e2e/interview.cy.js" />
+        <option value="$USER_HOME$/important-data-creation+rest-api-copyed/LoginApp.js" />
+        <option value="$PROJECT_DIR$/cypress/e2e/uiAPI.cy.js" />
+        <option value="$PROJECT_DIR$/cypress/utils/Utils.js" />
+        <option value="$PROJECT_DIR$/cypress/e2e/SDK.cy.js" />
+        <option value="$PROJECT_DIR$/cypress/pages/InventoryPage.js" />
+        <option value="$PROJECT_DIR$/cypress/e2e/InventoryPageTest.cy.js" />
+        <option value="$PROJECT_DIR$/conf/cypress.conf" />
+        <option value="$PROJECT_DIR$/cypress/support/e2e.js" />
+        <option value="$PROJECT_DIR$/cypress/support/commands.js" />
+        <option value="$PROJECT_DIR$/cypress.config.js" />
+        <option value="$PROJECT_DIR$/cypress/fixtures/keyword.json" />
+        <option value="$PROJECT_DIR$/cypress/pages/LoginPage.js" />
+        <option value="$PROJECT_DIR$/cypress/fixtures/LoginPageFields.json" />
+        <option value="$PROJECT_DIR$/cypress/e2e/LoginPageTest.cy.js" />
+        <option value="$PROJECT_DIR$/ReadMe.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="64" />
+    <option name="y" value="-11" />
+    <option name="width" value="1303" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="CatdeaLogs" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="QA-Tools-Cypress-Web-Automation-Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QA-Tools-Cypress-Web-Automation-Framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1716624577733" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Linters" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cypress" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cypress" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/QA-Tools-Cypress-Web-Automation-Framework/Cypress-Web-Framework/cypress/reports/html/index.html">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3b605a6-f25c-4e39-9049-f9f82d789461" name="Default Changelist" comment="" />
+      <created>1679018246607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679018246607</updated>
+      <workItem from="1679018269240" duration="3447000" />
+      <workItem from="1679146948728" duration="739000" />
+      <workItem from="1679300906808" duration="790000" />
+      <workItem from="1681092107234" duration="8120000" />
+      <workItem from="1681292333367" duration="5599000" />
+      <workItem from="1681352716148" duration="15062000" />
+      <workItem from="1681438408785" duration="3603000" />
+      <workItem from="1681701622538" duration="1650000" />
+      <workItem from="1682148394514" duration="777000" />
+      <workItem from="1683087768380" duration="20167000" />
+      <workItem from="1683199188089" duration="2254000" />
+      <workItem from="1683273978523" duration="461000" />
+      <workItem from="1683274585011" duration="596000" />
+      <workItem from="1683282853250" duration="19000" />
+      <workItem from="1683458705477" duration="1467000" />
+      <workItem from="1683509174370" duration="22242000" />
+      <workItem from="1683601533052" duration="11139000" />
+      <workItem from="1683643948479" duration="7349000" />
+      <workItem from="1683683819161" duration="913000" />
+      <workItem from="1683706673318" duration="2085000" />
+      <workItem from="1683860611977" duration="66000" />
+      <workItem from="1684464221298" duration="253000" />
+      <workItem from="1684512092849" duration="748000" />
+      <workItem from="1684554019890" duration="35000" />
+      <workItem from="1685343166534" duration="3522000" />
+      <workItem from="1685421796148" duration="3196000" />
+      <workItem from="1686806465862" duration="3390000" />
+      <workItem from="1686830167400" duration="1069000" />
+      <workItem from="1708601638578" duration="1051000" />
+      <workItem from="1708747227801" duration="2445000" />
+      <workItem from="1711647285189" duration="314000" />
+      <workItem from="1712667877138" duration="3843000" />
+      <workItem from="1712757095290" duration="906000" />
+      <workItem from="1713179915940" duration="3392000" />
+      <workItem from="1713237522524" duration="6044000" />
+      <workItem from="1713758536035" duration="13000" />
+      <workItem from="1714467685082" duration="3892000" />
+      <workItem from="1716540593634" duration="17138000" />
+      <workItem from="1716617063353" duration="4331000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="164127000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25737053" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32972136" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.17337461" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="SciView" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25338647" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32972136" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.19195047" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="SciView" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cypress/e2e/1-getting-started/todo.cy.js" />
+    <entry file="file://$PROJECT_DIR$/cypress/e2e/2-advanced-examples/actions.cy.js" />
+    <entry file="file://$USER_HOME$/Downloads/test1.py" />
+    <entry file="file://$USER_HOME$/Downloads/Checkitrevers.py" />
+    <entry file="file://$PROJECT_DIR$/cypress.json" />
+    <entry file="file://$PROJECT_DIR$/cypress/e2e/cucumberTest.cy.js" />
+    <entry file="file://$PROJECT_DIR$/cypress/e2e/test.feature" />
+    <entry file="file://$PROJECT_DIR$/cypress/e2e/Test.js" />
+    <entry file="file://$PROJECT_DIR$/cypress/screenshots/CustomComand.cy.js/suite name -- mytest.png" />
+    <entry file="file://$PROJECT_DIR$/cypress/screenshots/SDK.cy.js/An uncaught error was detected outside of a test (failed).png" />
+    <entry file="file://$PROJECT_DIR$/cypress-visual-screenshots/comparison/SDK.cy-subscribepage.png" />
+    <entry file="file://$PROJECT_DIR$/cypress-visual-screenshots/diff/SDK.cy-subscribepage.png" />
+    <entry file="file://$PROJECT_DIR$/cypress-visual-screenshots/baseline/SDK.cy-subscribepage.png" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Digimart/sdk-test-app/index.js" />
+    <entry file="file://$USER_HOME$/Downloads/Digimart/sdk-test-app/controllers/subscriptionController.js" />
+    <entry file="file://$USER_HOME$/Downloads/Digimart/sdk-test-app/public/views/subscriptionPage.ejs" />
+    <entry file="file://$PROJECT_DIR$/cypress/e2e/test2.cy.js" />
+    <entry file="file://$PROJECT_DIR$/cypress/e2e/test1.cy.js" />
+    <entry file="file://$PROJECT_DIR$/cypress/e2e/interview.cy.js" />
+    <entry file="file://$PROJECT_DIR$/cypress/e2e/uiAPI.cy.js" />
+    <entry file="file://$USER_HOME$/important-data-creation+rest-api-copyed/LoginApp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cypress/e2e/api.cy.js" />
+    <entry file="file://$PROJECT_DIR$/cypress/e2e/server.cy.js" />
+    <entry file="file://$PROJECT_DIR$/cypress/reports/html/screenshots/InventoryPageTest.cy.js/Inventory Page Test -- Verify Add to cart (failed).png" />
+    <entry file="file://$PROJECT_DIR$/cypress/pages/SubscribePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cypress/pages/InventoryPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cypress/e2e/CustomComand.cy.js" />
+    <entry file="file://$PROJECT_DIR$/cypress/fixtures/example.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cypress/plugin/index.js" />
+    <entry file="file://$PROJECT_DIR$/cypress/pages/SamplePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cypress/pages/DefaultErrorPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/cypress/types/cypress.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="508" column="4" selection-start-line="508" selection-start-column="4" selection-end-line="508" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cypress/support/commands.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cypress/support/e2e.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/cypress.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cypress/e2e/SDK.cy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3045">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cypress/fixtures/LoginPageFields.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cypress/pages/LoginPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cypress/utils/Utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cypress/e2e/LoginPageTest.cy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="30" column="34" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cypress/reports/html/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cypress/e2e/InventoryPageTest.cy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="30" column="39" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cypress.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
